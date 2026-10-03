@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of v17development/flarum-seo.** Not for installation: use [Packagist](https://packagist.org/packages/v17development/flarum-seo) or the [upstream repository](https://github.com/FriendsOfFlarum/seo).
 
-**0** versions archived · Latest: [`4.0.0-beta.8`](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v4.0.0-beta.8) · License: `MIT` · Flarum: `^2.0.0`
+**48** versions archived · Latest: [`4.0.0-beta.8`](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v4.0.0-beta.8) (stable: [`1.0`](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v1.0)) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1-beta` | 2019-01-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v0.1-beta) |
+| `0.2-beta` | 2019-01-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v0.2-beta) |
+| `0.3-beta` | 2019-02-05 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v0.3-beta) |
+| `0.4-beta` | 2019-05-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v0.4-beta) |
+| `1.0` | 2019-05-18 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v1.0) |
+| `1.0.1` | 2019-05-24 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v1.0.1) |
+| `1.0.2` | 2019-07-26 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v1.0.2) |
+| `1.1` | 2019-12-21 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v1.1) |
+| `1.2` | 2020-05-10 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v1.2) |
+| `1.2.1` | 2020-05-26 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/v17development-flarum-seo/tree/archive/v1.2.1) |
+
+[View all 48 versions](https://github.com/flarchive/v17development-flarum-seo/tags)
 
 Catalog entry: [packages/v17development-flarum-seo.json](https://github.com/flarchive/archive-index/blob/main/packages/v17development-flarum-seo.json)
 
